@@ -69,7 +69,7 @@ cv:
         end_date: now
         summary: 
         highlights:
-          - Description 1.
+          - HERON.
           - Description 2.
 
       - company: National Technical University of Athens
@@ -78,8 +78,10 @@ cv:
         start_date: 2018
         end_date: now
         highlights:
-          - Description 1.
-          - Description 2.
+          - CoDyCO - Study of the Contact Dynamics during Object Capture on Orbit
+          - Study of a Waste Bin Weighing System - Analysis and simulation of Waste Collector System
+          - PRINCE - Passive Mechanical and Rendezvous Interface for Capture after End-of-Life
+          - DiGi-CHE Asia - Enhancing Digital Capacities in Higher Education for Asian Universities
 
       - company: TWI Hellas
         position: Technical Project Manager
@@ -95,6 +97,8 @@ cv:
         location: Duisburg, DE
         start_date: 2018
         end_date: 2019
+        highlights:
+          - Study of Gait Analysis Systems - Part of a PhD student exchange with a focus on clinical gait analysis.
 
 
     Volunteer:
