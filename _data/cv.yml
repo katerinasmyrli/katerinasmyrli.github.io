@@ -30,7 +30,7 @@ cv:
         studyType: PhD Robotics
         start_date: 2018
         end_date: 2025
-        score: "With Distinction"
+        score: ""
         courses: ""
         highlights:
           - Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses
@@ -43,7 +43,7 @@ cv:
         studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
-        score: ""
+        score: "With Distinction"
         courses: ""
         highlights:
           - Robotic Grip - Design, development and evaluation of a tactile sensing device
@@ -56,7 +56,7 @@ cv:
         studyType: BSc, MSc Mechanical Engineering
         start_date: 2012
         end_date: 2017
-        score: ""
+        score: "With Distinction"
         courses: ""
         highlights:
           - Design, modeling and control of a bipedal walking robot with applications in human walking dynamics.
