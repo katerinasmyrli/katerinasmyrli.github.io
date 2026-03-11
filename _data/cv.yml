@@ -167,7 +167,7 @@ cv:
     Skills:
       - name: Robotics
         level: 
-        icon: fa-solid fa-hashtag
+        icon: fa-solid fa-robot
         keywords: "Dynamics, Kinematics, Control, Simulation, Design"
 
     Languages:
@@ -192,17 +192,17 @@ cv:
       - name: Tailored to Move - Wearable Robotics for Motion Assistance
         date: 2026
         issuer: IEEE International Conference on Robotics and Automation (ICRA)
-        icon: fa-solid fa-tag
+        icon: fa-solid fa-hashtag
 
       - name: Advanced tissue examination for diagnostics in surgical soft robotics
         date: 2025
         issuer: The Hamlyn Symposium on Medical Robotics
-        icon: fa-solid fa-tag
+        icon: fa-solid fa-hashtag
 
       - name: Markerless Motion Analysis
         date: 2023
         issuer: European Society for Movement Analysis in Adults and Children Conference (ESMAC)
-        icon: fa-solid fa-tag
+        icon: fa-solid fa-hashtag
 
     Projects:
       - name: Quantum Computing
