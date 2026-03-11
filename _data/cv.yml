@@ -106,41 +106,7 @@ cv:
         highlights:
           - Study of Gait Analysis Systems .
 
-    Awards:
-      - title: C. Mavroidis Award 
-        authors:
-          - "C. Mavroidis"
-        date: "2022, 2020"
-        awarder: National Technical University of Athens
-        summary: For excellence in Robotics and Automation.
 
-      - title: D. Thomaidis Award 
-        authors:
-          - "National Technical University of Athens"
-        date: '2018-2022'
-        awarder: National Technical University of Athens 
-        summary: For the publication of several research works.
-
-      - title: Thomaidis Foundation Award
-        authors:
-          - "Thomaidis Foundation "
-        date: 2017
-        awarder: Thomaidis Foundation 
-        summary: For excellent academic performance.
-
-      - title: C. Papakyriakopoulos Award
-        authors:
-          - "National Technical University of Athens"
-        date: 2013
-        awarder: National Technical University of Athens
-        summary: For excellence in Mathematics.
-
-      - title: Scholarship from the Association of Greeks from Egypt
-        authors:
-          - "Association of Greeks from Egypt"
-        date: '2012-2016'
-        awarder: Association of Greeks from Egypt
-        summary: For excellent academic performance.
 
     Theses:
       - title: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses.
