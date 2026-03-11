@@ -15,10 +15,10 @@ cv:
       username: example
 
   address:
-    street: 
+    street:
     city: Athens
-    region: 
-    postalCode: 
+    region:
+    postalCode:
     countryCode: GR
 
   sections:
