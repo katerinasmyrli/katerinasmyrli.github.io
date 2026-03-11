@@ -154,15 +154,18 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Greek
         summary: "Native speaker"
 
       - name: English
-        summary: "Fluent"
+        summary: "Proficient (C2)"
+
+      - name: Italian
+        summary: "Basic (B2)"
 
     Interests:
       - name: Physics
-        icon: fa-solid fa-tag
+        icon: fa-sharp fa-solid fa-ball-yarn
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
