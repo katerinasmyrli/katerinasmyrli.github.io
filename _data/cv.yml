@@ -26,33 +26,33 @@ cv:
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses
+        area: Control Systems Lab
         studyType: PhD Robotics
         start_date: 2018
         end_date: 2025
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses
+
 
       - institution: Imperial College London
         location: London, UK
         url: https://www.imperial.ac.uk/
-        area: Mechanical Engineering
+        area: Tribology Lab
         studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
         score: ""
         courses: ""
         highlights:
-          - Robotic Grip: Design, development and evaluation of a tactile sensing device
+          - Robotic Grip - Design, development and evaluation of a tactile sensing device
           
 
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Department of Mechanical Design & Automatic Control
+        area: Control Systems Lab
         studyType: BSc, MSc Mechanical Engineering
         start_date: 2012
         end_date: 2017
@@ -69,8 +69,7 @@ cv:
         end_date: now
         summary: 
         highlights:
-          - HERON.
-          - Description 2.
+          - HERON - The Hellenic Robotics Center of Excellence.
 
       - company: National Technical University of Athens
         position: Researcher
@@ -89,8 +88,9 @@ cv:
         start_date: 2023
         end_date: 2025
         highlights:
-          - PALPABLE Project
-          - SWAG Project
+          - PALPABLE - Multi-sensing tool for Minimally Invasive Surgery
+          - SWAG - Soft Wearable Assistive Garments for Human Empowerment
+
 
       - company: University of Duisburg-Essen
         position: Visiting Researcher
@@ -98,7 +98,7 @@ cv:
         start_date: 2018
         end_date: 2019
         highlights:
-          - Study of Gait Analysis Systems - Part of a PhD student exchange with a focus on clinical gait analysis.
+          - Study of Gait Analysis Systems - Part of a PhD exchange with a focus on clinical gait analysis.
 
 
     Volunteer:
