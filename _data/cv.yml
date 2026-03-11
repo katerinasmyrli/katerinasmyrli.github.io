@@ -182,7 +182,7 @@ cv:
 
     Interests:
       - name: Crafts
-        icon: fa-solid fa-scisors
+        icon: fa-solid fa-scissors
         keywords: "Pottery, Knitting, Sewing, Leathercraft"
       - name: Activities
         icon: fa-solid fa-bolt
