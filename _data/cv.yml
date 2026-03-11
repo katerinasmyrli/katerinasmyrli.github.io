@@ -184,9 +184,12 @@ cv:
         summary: "Basic (B2)"
 
     Interests:
-      - name: Physics
-        icon: fa-sharp fa-solid fa-ball-yarn
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Crafts
+        icon: fa-solid fa-scisors
+        keywords: "Pottery, Knitting, Sewing, Leathercraft"
+      - name: Activities
+        icon: fa-solid fa-bolt
+        keywords: "Tennis, Running, Hiking"
 
     Certificates:
       - name: Machine Learning
