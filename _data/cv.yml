@@ -166,7 +166,7 @@ cv:
 
     Skills:
       - name: Robotics
-        level: PhD
+        level: 
         icon: fa-solid fa-hashtag
         keywords: "Dynamics, Kinematics, Control, Simulation, Design"
 
