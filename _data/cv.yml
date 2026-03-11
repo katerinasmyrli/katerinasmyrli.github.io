@@ -38,10 +38,13 @@ cv:
 
       - institution: Imperial College London
         location: London, UK
+        url: https://www.imperial.ac.uk/
         area: Mechanical Engineering
         studyType: MSc
         start_date: 2017
         end_date: 2018
+        score: ""
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
