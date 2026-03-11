@@ -135,7 +135,7 @@ cv:
         icon: fa-solid fa-robot
         keywords: "Dynamics, Kinematics, Control, Simulation, Design"
 
-    Workshops:
+    Workshop Organizer:
       - name: Tailored to Move - Wearable Robotics for Motion Assistance
         date: 2026
         issuer: IEEE International Conference on Robotics and Automation (ICRA)
