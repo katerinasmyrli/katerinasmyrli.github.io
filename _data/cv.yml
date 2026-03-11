@@ -110,16 +110,23 @@ cv:
       - title: C. Mavroidis Award 
         authors:
           - "C. Mavroidis"
-        date: 2022, 2020
+        date: "2022, 2020"
         awarder: National Technical University of Athens
         summary: For excellence in Robotics and Automation.
+
+      - title: D. Thomaidis Foundation 
+        authors:
+          - "National Technical University of Athens"
+        date: 2018-2022
+        awarder: National Technical University of Athens 
+        summary: For the publication of several research works
 
       - title: Thomaidis Foundation Award
         authors:
           - "Thomaidis Foundation "
-        date: 2018-2022
+        date: 2017
         awarder: Thomaidis Foundation 
-        summary: For the publication of several research works and excellend academic performance
+        summary: For excellent academic performance
 
       - title: C. Papakyriakopoulos Award
         authors:
