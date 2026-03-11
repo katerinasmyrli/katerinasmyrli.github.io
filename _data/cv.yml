@@ -42,7 +42,7 @@ cv:
         studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
-        score: "Awarded with Distinction."
+        score: ""
         courses: ""
         highlights:
           - Awarded with Distinction.
@@ -55,7 +55,7 @@ cv:
         studyType: BSc, MSc Mechanical Engineering
         start_date: 2012
         end_date: 2017
-        score: "With Distinction"
+        score: ""
         courses: ""
         highlights:
           - Awarded with Distinction.
