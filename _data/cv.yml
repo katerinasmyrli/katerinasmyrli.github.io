@@ -24,7 +24,7 @@ cv:
   sections:
     Education:
       - institution: National Technical University of Athens
-        location: Athens, Greece
+        location: Athens, GR
         url: https://ntua.gr/en/
         area: Robotics
         studyType: PhD
@@ -37,7 +37,7 @@ cv:
           - Description 2.
 
       - institution: Imperial College London
-        location: London, United Kingdom
+        location: London, UK
         area: Mechanical Engineering
         studyType: MSc
         start_date: 2017
@@ -47,7 +47,7 @@ cv:
           - Description 2.
 
       - institution: National Technical University of Athens
-        location: Athens, Greece
+        location: Athens, GR
         url: https://ntua.gr/en/
         area: Mechanical Engineering
         studyType: BSc, MSc
