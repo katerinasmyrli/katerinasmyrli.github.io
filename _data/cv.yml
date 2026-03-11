@@ -23,25 +23,38 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: National Technical University of Athens
+        location: Athens, Greece
+        url: https://ntua.gr/en/
+        area: Robotics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2018
+        end_date: 2025
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Imperial College London
+        location: London, United Kingdom
+        area: Mechanical Engineering
+        studyType: MSc
+        start_date: 2017
+        end_date: 2018
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - institution: National Technical University of Athens
+        location: Athens, Greece
+        url: https://ntua.gr/en/
+        area: Mechanical Engineering
+        studyType: BSc, MSc
+        start_date: 2012
+        end_date: 2017
+        score: ""
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
