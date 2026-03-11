@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Katerina Smyrli",
+    "label": "Robotics Engineer",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "katerinasmyrli@gmail.com",
+    "phone": "",
+    "summary": "Researcher of bipedal locomotion in robots and humans",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Athens",
+      "countryCode": "Greece",
+      "region": ""
     },
     "profiles": []
   },
