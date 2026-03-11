@@ -472,13 +472,6 @@ ninja.data = [{
           window.open("/assets/pdf/example_pdf.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%6B%61%74%65%72%69%6E%61%73%6D%79%72%6C%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -493,6 +486,13 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Aikaterini-Smyrli/", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=wQ6bzf4AAAAJ", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -500,11 +500,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/katerinasmyrli", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=wQ6bzf4AAAAJ", "_blank");
+          window.open("mailto:%6B%61%74%65%72%69%6E%61%73%6D%79%72%6C%69@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
       id: 'light-theme',
