@@ -70,7 +70,8 @@ cv:
         end_date: now
         summary: 
         highlights:
-          - HERON - The Hellenic Robotics Center of Excellence.
+          - Robotics Institute
+          - HERON - The Hellenic Robotics Center of Excellence
 
       - company: National Technical University of Athens
         position: Researcher
@@ -85,6 +86,7 @@ cv:
 
       - company: TWI Hellas
         position: Technical Project Manager
+        summary: Part of a PhD exchange with a focus on clinical gait analysis (German Academic Exchange Service - DAAD).
         location: Athens, GR
         start_date: 2023
         end_date: 2025
@@ -95,23 +97,12 @@ cv:
 
       - company: University of Duisburg-Essen
         position: Visiting Researcher
+        summary: Part of a PhD exchange with a focus on clinical gait analysis (German Academic Exchange Service - DAAD).
         location: Duisburg, DE
         start_date: 2018
         end_date: 2019
         highlights:
-          - Study of Gait Analysis Systems - Part of a PhD exchange with a focus on clinical gait analysis.
-
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Study of Gait Analysis Systems .
 
     Awards:
       - title: Nobel Prize in Physics
