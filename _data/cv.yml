@@ -73,8 +73,9 @@ cv:
           - Robotics Institute
           - HERON - The Hellenic Robotics Center of Excellence
 
-      - company: National Technical University of Athens
-        position: Researcher
+      - company: Control Systems Lab, National Technical University of Athens
+        position: Robotics Researcher
+        url: https://controlsystemslab.gr/
         location: Athens, GR
         start_date: 2018
         end_date: now
