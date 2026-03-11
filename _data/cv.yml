@@ -170,6 +170,59 @@ cv:
         icon: fa-solid fa-robot
         keywords: "Dynamics, Kinematics, Control, Simulation, Design"
 
+    Workshops:
+      - name: Tailored to Move - Wearable Robotics for Motion Assistance
+        date: 2026
+        issuer: IEEE International Conference on Robotics and Automation (ICRA)
+        icon: fa-solid fa-hashtag
+
+      - name: Advanced tissue examination for diagnostics in surgical soft robotics
+        date: 2025
+        issuer: The Hamlyn Symposium on Medical Robotics
+        icon: fa-solid fa-hashtag
+
+      - name: Markerless Motion Analysis
+        date: 2023
+        issuer: European Society for Movement Analysis in Adults and Children Conference (ESMAC)
+        icon: fa-solid fa-hashtag
+
+        
+    Awards:
+      - title: C. Mavroidis Award 
+        authors:
+          - "C. Mavroidis"
+        date: "2022, 2020"
+        awarder: National Technical University of Athens
+        summary: For excellence in Robotics and Automation.
+
+      - title: D. Thomaidis Award 
+        authors:
+          - "National Technical University of Athens"
+        date: '2018-2022'
+        awarder: National Technical University of Athens 
+        summary: For the publication of several research works.
+
+      - title: Thomaidis Foundation Award
+        authors:
+          - "Thomaidis Foundation "
+        date: 2017
+        awarder: Thomaidis Foundation 
+        summary: For excellent academic performance.
+
+      - title: C. Papakyriakopoulos Award
+        authors:
+          - "National Technical University of Athens"
+        date: 2013
+        awarder: National Technical University of Athens
+        summary: For excellence in Mathematics.
+
+      - title: Scholarship from the Association of Greeks from Egypt
+        authors:
+          - "Association of Greeks from Egypt"
+        date: '2012-2016'
+        awarder: Association of Greeks from Egypt
+        summary: For excellent academic performance.
+
     Languages:
       - name: Greek
         summary: "Native speaker"
@@ -187,23 +240,7 @@ cv:
       - name: Activities
         icon: fa-solid fa-bolt
         keywords: "Tennis, Running, Hiking"
-
-    Workshops:
-      - name: Tailored to Move - Wearable Robotics for Motion Assistance
-        date: 2026
-        issuer: IEEE International Conference on Robotics and Automation (ICRA)
-        icon: fa-solid fa-hashtag
-
-      - name: Advanced tissue examination for diagnostics in surgical soft robotics
-        date: 2025
-        issuer: The Hamlyn Symposium on Medical Robotics
-        icon: fa-solid fa-hashtag
-
-      - name: Markerless Motion Analysis
-        date: 2023
-        issuer: European Society for Movement Analysis in Adults and Children Conference (ESMAC)
-        icon: fa-solid fa-hashtag
-
+    
     Projects:
       - name: Quantum Computing
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
