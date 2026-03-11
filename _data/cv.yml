@@ -26,8 +26,8 @@ cv:
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Robotics
-        studyType: PhD
+        area: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses
+        studyType: PhD Robotics
         start_date: 2018
         end_date: 2025
         score: ""
@@ -40,37 +40,36 @@ cv:
         location: London, UK
         url: https://www.imperial.ac.uk/
         area: Mechanical Engineering
-        studyType: MSc
+        studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Robotic Grip: Design, development and evaluation of a tactile sensing device
+          
 
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Mechanical Engineering
-        studyType: BSc, MSc
+        area: Department of Mechanical Design & Automatic Control
+        studyType: BSc, MSc Mechanical Engineering
         start_date: 2012
         end_date: 2017
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Design, modeling and control of a bipedal walking robot with applications in human walking dynamics.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
+      - company: Athena Research Center
+        position: Adjunct Researcher
+        location: Marousi, GR
         start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        end_date: 
+        summary: 
         highlights:
-          - Relativity
+          - Description 1.
           - Description 2.
 
       - company: California Institute of Technology
