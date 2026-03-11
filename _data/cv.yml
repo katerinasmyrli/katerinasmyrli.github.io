@@ -188,7 +188,7 @@ cv:
         icon: fa-solid fa-bolt
         keywords: "Tennis, Running, Hiking"
 
-    Workshop Organizer:
+    Workshops:
       - name: Tailored to Move - Wearable Robotics for Motion Assistance
         date: 2026
         issuer: IEEE International Conference on Robotics and Automation (ICRA)
