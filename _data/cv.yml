@@ -117,16 +117,16 @@ cv:
       - title: D. Thomaidis Foundation 
         authors:
           - "National Technical University of Athens"
-        date: 2018-2022
+        date: "2018-2022"
         awarder: National Technical University of Athens 
-        summary: For the publication of several research works
+        summary: For the publication of several research works.
 
       - title: Thomaidis Foundation Award
         authors:
           - "Thomaidis Foundation "
         date: 2017
         awarder: Thomaidis Foundation 
-        summary: For excellent academic performance
+        summary: For excellent academic performance.
 
       - title: C. Papakyriakopoulos Award
         authors:
@@ -134,6 +134,13 @@ cv:
         date: 2013
         awarder: National Technical University of Athens
         summary: For excellence in Mathematics.
+
+      - title: Scholarship from the Association of Greeks from Egypt
+        authors:
+          - "Association of Greeks from Egypt"
+        date: "2012-2016"
+        awarder: Association of Greeks from Egypt
+        summary: For excellent academic performance.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
