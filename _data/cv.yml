@@ -26,7 +26,7 @@ cv:
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Control Systems Lab
+        area: Control Systems Lab, Department of Mechanical Engineering
         studyType: PhD Robotics
         start_date: 2018
         end_date: 2025
@@ -39,7 +39,7 @@ cv:
       - institution: Imperial College London
         location: London, UK
         url: https://www.imperial.ac.uk/
-        area: Tribology Lab
+        area: Tribology Lab, Department of Mechanical Engineering
         studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
@@ -52,7 +52,7 @@ cv:
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
-        area: Control Systems Lab
+        area: Control Systems Lab, Department of Mechanical Engineering
         studyType: BSc, MSc Mechanical Engineering
         start_date: 2012
         end_date: 2017
@@ -76,6 +76,7 @@ cv:
       - company: Control Systems Lab, National Technical University of Athens
         position: Robotics Researcher
         url: https://controlsystemslab.gr/
+        summary: Participated in multiple EU-funded as well as private research projects, focusing on Dynamics and Control in space robotics.
         location: Athens, GR
         start_date: 2018
         end_date: now
