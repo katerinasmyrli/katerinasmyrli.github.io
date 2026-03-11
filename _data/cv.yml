@@ -43,10 +43,10 @@ cv:
         studyType: MSc Advanced Mechanical Engineering
         start_date: 2017
         end_date: 2018
-        score: "With Distinction"
+        score: "Awarded with Distinction."
         courses: ""
         highlights:
-          - Robotic Grip - Design, development and evaluation of a tactile sensing device.
+          - With Distinction
           
 
       - institution: National Technical University of Athens
@@ -59,7 +59,7 @@ cv:
         score: "With Distinction"
         courses: ""
         highlights:
-          - Design, modeling and control of a bipedal walking robot with applications in human walking dynamics.
+          - Awarded with Distinction.
 
     Experience:
       - company: Athena Research Center
