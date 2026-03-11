@@ -142,36 +142,36 @@ cv:
         awarder: Association of Greeks from Egypt
         summary: For excellent academic performance.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+    Theses:
+      - title: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Aikaterini Smyrli
+        publisher: National Technical University of Athens
+        url: https://phdtheses.ekt.gr/eadd/handle/10442/60169?locale=en
+        releaseDate: 2025
+        summary: The thesis investigates bipedal locomotion through modeling, simulation, and control of bio-inspired walkers for applications in robotics and lower-limb prosthetics. It develops biomimetic foot and knee designs, informed by human gait data, and an energy-efficient control strategy to create robotic and prosthetic systems that effortlessly generate natural walking patterns.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Robotic Grip - Design, development and evaluation of a tactile sensing device.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Aikaterini Smyrli
+        publisher: Imperial College London
+        releaseDate: 2018
+        url: https://spiral.imperial.ac.uk/entities/publication/fa9e6e52-efb4-44c9-912f-6cd14535f826
+        summary: This thesis investigates the design and development of a finger-like tactile sensing device for robotic manipulators to detect contact and predict slip. Integrating thermal and force sensors inspired by the human tactile system, the device is experimentally evaluated for contact detection and slip sensing across different forces and materials.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Design, modeling and control of a bipedal walking robot with applications in human walking dynamics.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Aikaterini Smyrli
+        publisher: National Technical University of Athens
+        releaseDate: 2017
+        url: https://dspace.lib.ntua.gr/xmlui/handle/123456789/46119?locale-attribute=en
+        summary: This thesis investigates the passive dynamics of a bipedal walking model with compliant legs, semicircular feet, and a hip mass to better replicate human gait, particularly the double-stance phase and heelstrike dynamics. 
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Robotics
+        level: PhD
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Dynamics, Kinematics, Control, Simulation, Design"
 
     Languages:
       - name: Greek
@@ -191,21 +191,21 @@ cv:
         icon: fa-solid fa-bolt
         keywords: "Tennis, Running, Hiking"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+    Workshop Organizer:
+      - name: Tailored to Move - Wearable Robotics for Motion Assistance
+        date: 2026
+        issuer: IEEE International Conference on Robotics and Automation (ICRA)
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Advanced tissue examination for diagnostics in surgical soft robotics
+        date: 2025
+        issuer: The Hamlyn Symposium on Medical Robotics
+        icon: fa-solid fa-tag
+
+      - name: Markerless Motion Analysis
+        date: 2023
+        issuer: European Society for Movement Analysis in Adults and Children Conference (ESMAC)
+        icon: fa-solid fa-tag
 
     Projects:
       - name: Quantum Computing
