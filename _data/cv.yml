@@ -65,27 +65,30 @@ cv:
       - company: Athena Research Center
         position: Adjunct Researcher
         location: Marousi, GR
-        start_date: 1933
+        start_date: 2023
         end_date: 
         summary: 
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: National Technical University of Athens
+        position: Researcher
+        location: Athens, GR
+        start_date: 2018
+        end_date: 
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: TWI Hellas
+        position: Technical Project Manager
+        location: Athens, GR
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - PALPABLE Project
+          - SWAG Project
 
       - company: Karl-Ferdinand University
         position: Professor of Theoretical Physics
