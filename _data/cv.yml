@@ -107,20 +107,26 @@ cv:
           - Study of Gait Analysis Systems .
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: C. Mavroidis Award 
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "C. Mavroidis"
+        date: 2022, 2020
+        awarder: National Technical University of Athens
+        summary: For excellence in Robotics and Automation.
 
-      - title: Max Planck Medal
+      - title: Thomaidis Foundation Award
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Thomaidis Foundation "
+        date: 2018-2022
+        awarder: Thomaidis Foundation 
+        summary: For the publication of several research works and excellend academic performance
+
+      - title: C. Papakyriakopoulos Award
+        authors:
+          - "National Technical University of Athens"
+        date: 2013
+        awarder: National Technical University of Athens
+        summary: For excellence in Mathematics.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
