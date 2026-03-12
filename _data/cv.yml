@@ -223,7 +223,7 @@ cv:
           - Andrés Kecskeméthy
           - Silke Gegenbauer
         publisher: ECCOMAS Thematic Conference on Multibody Dynamics
-        releaseDate: 2019
+        date: 2019
         url: https://nereus.mech.ntua.gr/pdf_ps/eccomas19.pdf
 
       - title: Efficient Stabilization of Zero-Slope Walking for Bipedal Robots Following Their Passive Fixed-Point Trajectories
@@ -232,7 +232,7 @@ cv:
           - Georgios A. Bertos
           - Evangelos Papadopoulos
         publisher: IEEE International Conference on Robotics and Automation
-        releaseDate: 2018
+        date: 2018
         url: https://ieeexplore.ieee.org/document/8460845
 
     Theses:
