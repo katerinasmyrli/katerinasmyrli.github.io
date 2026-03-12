@@ -230,21 +230,24 @@ cv:
 
     Theses:
       - title: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses.
-        authors: Aikaterini Smyrli
+        authors: 
+          - Aikaterini Smyrli
         awarder: National Technical University of Athens
         url: https://phdtheses.ekt.gr/eadd/handle/10442/60169?locale=en
         date: 2025
         summary: The thesis investigates bipedal locomotion through modeling, simulation, and control of bio-inspired walkers for applications in robotics and lower-limb prosthetics. It develops biomimetic foot and knee designs, informed by human gait data, and an energy-efficient control strategy to create robotic and prosthetic systems that effortlessly generate natural walking patterns.
 
       - title: Robotic Grip - Design, development and evaluation of a tactile sensing device.
-        authors: Aikaterini Smyrli
+        authors: 
+          - Aikaterini Smyrli
         awarder: Imperial College London
         date: 2018
         url: https://spiral.imperial.ac.uk/entities/publication/fa9e6e52-efb4-44c9-912f-6cd14535f826
         summary: This thesis investigates the design and development of a finger-like tactile sensing device for robotic manipulators to detect contact and predict slip. Integrating thermal and force sensors inspired by the human tactile system, the device is experimentally evaluated for contact detection and slip sensing across different forces and materials.
 
       - title: Design, modeling and control of a bipedal walking robot with applications in human walking dynamics.
-        authors: Aikaterini Smyrli
+        authors: 
+          - Aikaterini Smyrli
         awarder: National Technical University of Athens
         date: 2017
         url: https://dspace.lib.ntua.gr/xmlui/handle/123456789/46119?locale-attribute=en
