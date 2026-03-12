@@ -414,7 +414,7 @@ ninja.data = [{
           title: 'Co-organizing ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-03-01-hrf/";
+              window.location.href = "/news/2026-01-01-icra_ws/";
             },},{id: "news-co-organizing-hamlyn-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
           title: 'Co-organizing Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics',
           description: "",
@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-successfully-defended-my-phd-mortar-board",
           title: 'Successfully defended my PhD! :mortar_board:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-speaker-in-the-1st-summer-school-in-robotics-amp-ai",
+          title: 'Speaker in the 1st Summer School in Robotics &amp;amp; AI',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-01-hrf/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
