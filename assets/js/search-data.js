@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-09-19-esmac-workshop/";
-            },},{id: "news-co-organising-a-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
-          title: 'Co-organising a workshop on tissue diagnostics in surgical soft robotics',
+            },},{id: "news-co-organising-hamlyn-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
+          title: 'Co-organising Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-24-hamlyn-workshop.md/";
