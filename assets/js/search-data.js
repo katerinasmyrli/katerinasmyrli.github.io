@@ -405,10 +405,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-co-organizing-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
+            },},{id: "news-co-organizing-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
           title: 'Co-organizing ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
           description: "",
           section: "News",handler: () => {
@@ -418,7 +415,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-24-hamlyn-workshop.md/";
-            },},{id: "projects-project-1",
+            },},{id: "news-successfully-defended-my-phd-mortar-board",
+          title: 'Successfully defended my PhD! :mortar_board:',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
