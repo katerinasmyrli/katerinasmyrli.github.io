@@ -408,13 +408,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
-          title: 'ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
+          section: "News",},{id: "news-co-organizing-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
+          title: 'Co-Organizing ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-09-19-esmac-workshop/";
-            },},{id: "news-co-organising-hamlyn-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
-          title: 'Co-organising Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics',
+            },},{id: "news-co-organizing-hamlyn-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
+          title: 'Co-organizing Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-06-24-hamlyn-workshop.md/";
