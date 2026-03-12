@@ -186,9 +186,16 @@ cv:
           - Evangelos Papadopoulos
         publisher: Mechanism and Machine Theory
         date: 2021
-        url:  https://linkinghub.elsevier.com/retrieve/pii/S0094114X2100104X
+        url:  https://www.sciencedirect.com/science/article/abs/pii/S0094114X2100104X
   
-
+      - title: A Generalized Model for Compliant Passive Bipedal Walking - Sensitivity Analysis and Implications on Bionic Leg Design
+        authors:
+          - Aikaterini Smyrli
+          - Georgios A. Bertos
+          - Evangelos Papadopoulos
+        publisher: ASME Journal of Biomechanical Engineering
+        date: 2021
+        url: https://asmedigitalcollection.asme.org/biomechanical/article-abstract/143/10/101008/1109461/A-Generalized-Model-for-Compliant-Passive-Bipedal
         
       - title: A methodology for the incorporation of arbitrarily-shaped feet in passive bipedal walking dynamics
         authors:
