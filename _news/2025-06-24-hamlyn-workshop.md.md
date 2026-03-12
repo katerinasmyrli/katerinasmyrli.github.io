@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Co-organising Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics
+title: Co-organizing Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics
 date: 2025-06-24
 inline: false
 related_posts: false
