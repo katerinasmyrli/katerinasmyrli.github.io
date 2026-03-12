@@ -178,6 +178,16 @@ cv:
         date: 2022
         url: https://ieeexplore.ieee.org/document/9982027
   
+      - title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
+        authors:
+          - Christos Vasileiou
+          - Aikaterini Smyrli
+          - Anargyros Drogosis
+          - Evangelos Papadopoulos
+        publisher: Mechanism and Machine Theory
+        date: 2021
+        url:  https://linkinghub.elsevier.com/retrieve/pii/S0094114X2100104X
+  
 
         
       - title: A methodology for the incorporation of arbitrarily-shaped feet in passive bipedal walking dynamics
