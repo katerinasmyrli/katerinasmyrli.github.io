@@ -178,7 +178,62 @@ cv:
         date: 2022
         url: https://ieeexplore.ieee.org/document/9982027
   
+      - title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
+        authors:
+          - Christos Vasileiou
+          - Aikaterini Smyrli
+          - Anargyros Drogosis
+          - Evangelos Papadopoulos
+        publisher: Mechanism and Machine Theory
+        date: 2021
+        url: linkinghub.elsevier.com/retrieve/pii/S0094114X2100104X
+  
+      - title: A Generalized Model for Compliant Passive Bipedal Walking: Sensitivity Analysis and Implications on Bionic Leg Design
+        authors:
+          - Aikaterini Smyrli
+          - Georgios A. Bertos
+          - Evangelos Papadopoulos
+        publisher: ASME Journal of Biomechanical Engineering
+        date: 2021
+        url: https://asmedigitalcollection.asme.org/biomechanical/article-abstract/143/10/101008/1109461/A-Generalized-Model-for-Compliant-Passive-Bipedal?redirectedFrom=fulltext
+        
+      - title: A methodology for the incorporation of arbitrarily-shaped feet in passive bipedal walking dynamics
+        authors:
+          - Aikaterini Smyrli
+          - Evangelos Papadopoulos
+        publisher: IEEE International Conference on Robotics and Automation
+        date: 2020
+        url: https://ieeexplore.ieee.org/document/9196617
+  
+      - title: On the effect of semielliptical foot shape on the energetic efficiency of passive bipedal gait
+        authors:
+          - Aikaterini Smyrli
+          - Mehdi Ghiassi
+          - Andres Kecskemethy
+          - Evangelos Papadopoulos
+        publisher: IEEE/RSJ International Conference on Intelligent Robots and Systems
+        date: 2019
+        url: https://ieeexplore.ieee.org/document/8967565
+        
+      - title: Application of OpenPose deep learning algorithm for gait parameter identification
+        authors:
+          - Athanasios Mastrogeorgiou
+          - Aikaterini Smyrli
+          - Evangelos Papadopoulos
+          - Andres Kecskemethy
+          - Silke Gegenbauer
+        publisher: ECCOMAS Thematic Conference on Multibody Dynamics
+        date: 2019
+        url: https://nereus.mech.ntua.gr/pdf_ps/eccomas19.pdf
 
+      - title: Efficient Stabilization of Zero-Slope Walking for Bipedal Robots Following Their Passive Fixed-Point Trajectories
+        authors:
+          - Aikaterini Smyrli
+          - Georgios A. Bertos
+          - Evangelos Papadopoulos
+        publisher: IEEE International Conference on Robotics and Automation
+        date: 2018
+        url: https://ieeexplore.ieee.org/document/8460845
 
     Theses:
       - title: Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses.
