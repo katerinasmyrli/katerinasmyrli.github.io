@@ -405,11 +405,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-together-with-athanasios-mastrogeorgiou-konstantina-tsintzira-odysseas-stavrakakis-and-prof-evangelos-papadopoulos-we-organised-the-workshop-markerless-motion-analysis-for-gait-assessment-at-the-esmac-conference-focusing-on-developing-accessible-and-low-cost-methods-for-biomechanical-analysis-the-workshop-presented-a-markerless-gait-analysis-pipeline-that-combines-low-cost-rgb-cameras-with-open-source-skeleton-tracking-frameworks-such-as-openpose-and-alphapose-the-captured-2-d-keypoints-are-synchronized-across-multiple-cameras-and-triangulated-to-reconstruct-3-d-motion-trajectories-which-are-then-used-in-opensim-for-musculoskeletal-modelling-inverse-kinematics-and-inverse-dynamics-analysis-the-goal-of-this-work-is-to-make-gait-analysis-more-accessible-by-reducing-the-reliance-on-expensive-marker-based-motion-capture-systems-and-specialized-laboratory-setups-by-leveraging-open-source-tools-and-affordable-hardware-the-proposed-approach-enables-gait-analysis-in-settings-where-traditional-motion-capture-labs-are-not-available-during-the-workshop-we-demonstrated-the-pipeline-discussed-optimal-camera-placement-and-calibration-strategies-and-explored-applications-ranging-from-clinical-gait-assessment-to-training-anthropomorphic-walking-robots",
+          title: 'Together with Athanasios Mastrogeorgiou, Konstantina Tsintzira, Odysseas Stavrakakis and Prof. Evangelos Papadopoulos, we...',
           description: "",
           section: "News",},{id: "news-co-organising-a-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
           title: 'Co-organising a workshop on tissue diagnostics in surgical soft robotics',
