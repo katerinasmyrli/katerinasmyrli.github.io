@@ -7,6 +7,8 @@ related_posts: false
 ---
 
 > Together with Athanasios Mastrogeorgiou, Konstantina Tsintzira, Odysseas Stavrakakis and Prof. Evangelos Papadopoulos, we organised the workshop **Markerless Motion Analysis for Gait Assessment** at the **ESMAC Conference**, focusing on developing accessible and low-cost methods for biomechanical analysis.
+> 
+---
 
 The workshop presented a markerless gait analysis pipeline that combines low-cost RGB cameras with open-source skeleton tracking frameworks such as OpenPose and AlphaPose. The captured 2-D keypoints are synchronized across multiple cameras and triangulated to reconstruct 3-D motion trajectories, which are then used in OpenSim for musculoskeletal modelling, inverse kinematics, and inverse dynamics analysis.
 
