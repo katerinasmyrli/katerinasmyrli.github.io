@@ -408,8 +408,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-esmac-workshop",
-          title: 'Esmac Workshop',
+          section: "News",},{id: "news-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
+          title: 'ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-09-19-esmac-workshop/";
