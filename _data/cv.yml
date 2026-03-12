@@ -14,13 +14,6 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street:
-    city: Athens
-    region:
-    postalCode:
-    countryCode: GR
-
   sections:
     Education:
       - institution: National Technical University of Athens
