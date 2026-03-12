@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://katerinasmyrli.github.io/sitemap.xml
+Sitemap: https:/katerina.smyrli.com/sitemap.xml
