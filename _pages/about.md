@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Robotics Institute, Athena Research Center</p>
+    <p>Robotics Institute, Athena RC</p>
     <p>Egialias 19 and Chalepa Str.</p>
     <p>Marousi 15125, Greece</p>
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Robotics Engineer with a background in Mechanical Engineering and an interest in the intersection of robotics and life sciences. I hold a PhD in Robotics from the National Technical University of Athens (NTUA), an MSc in Mechanical Engineering from Imperial College London, and an integrated MEng Diploma in Mechanical Engineering from NTUA.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My PhD research examined bipedal locomotion and the development of energetically efficient lower-limb robotic systems for prosthetic applications. I am currently a Robotics Researcher at the Robotics Institute of Athena Research Center in Greece and affiliated with the Control Systems Lab at NTUA. My team tackles open questions on robotic bipedal locomotion, and investigates the application of robotics to problems related to human mobility and health. My broader academic interests include robot dynamics, simulation, and analytical methods for modeling and control of robotic systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Alongside my academic work, I have been involved in projects related to the development of medical devices and wearable rehabilitation technologies that support human gait. I have also contributed to projects in space robotics, as well as to broader applications of nonlinear dynamics and control in robotic systems.
