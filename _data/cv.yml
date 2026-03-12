@@ -1,9 +1,10 @@
 cv:
   name: Katerina Smyrli
-  headline: Robotics Engineer
+  label: Robotics Engineer
   email: katerinasmyrli@gmail.com
   location: Athens, Greece
   photo: ""
+  summary: Researching bipedal locomotion in robots and humans
   
 
   social_networks:
