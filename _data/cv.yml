@@ -5,12 +5,8 @@ cv:
   location: Athens, Greece
   
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: katerinasmyrli
 
   sections:
     Summary: Researching bipedal locomotion in robots and humans
