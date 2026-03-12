@@ -113,10 +113,10 @@ layout: default
         {% endif %}
 
         <!-- Summary -->
-        {% if cv.sections.Profsummary %}
+        {% if cv.sections.Summary %}
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">Professional Summary</h3>
-            {% assign entries = cv.sections.Profsummary %}
+            <h3 class="card-title font-weight-medium">Summary</h3>
+            {% assign entries = cv.sections.Summary %}
             {% include cv/certificates.liquid %}
           </div>
         {% endif %}
