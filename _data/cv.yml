@@ -1,6 +1,7 @@
 cv:
   name: Katerina Smyrli
   headline: Robotics Engineer
+  label: Robotics Engineer
   email: katerinasmyrli@gmail.com
   location: Athens, Greece
   
@@ -41,7 +42,6 @@ cv:
         highlights:
           - Awarded with Distinction.
           
-
       - institution: National Technical University of Athens
         location: Athens, GR
         url: https://ntua.gr/en/
