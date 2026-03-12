@@ -1,19 +1,19 @@
 cv:
-  basics:
-    name: Katerina Smyrli
-    label: Robotics Engineer
-    email: katerinasmyrli@gmail.com
-    location: Athens, Greece
-    summary: Researching bipedal locomotion in robots and humans
-    social_networks:
-      - network: X
-        username: AlbertEinstein
-      - network: GitHub
-        username: example
-      - network: LinkedIn
-        username: example
+  name: Katerina Smyrli
+  headline: Robotics Engineer
+  email: katerinasmyrli@gmail.com
+  location: Athens, Greece
+  
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
 
   sections:
+    Summary: Researching bipedal locomotion in robots and humans
   
     Education:
       - institution: National Technical University of Athens
