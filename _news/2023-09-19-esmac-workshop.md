@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: ESMAC Workshop on Markerless Motion Analysis for Gait Assessment
 date: 2023-09-19 
 inline: false
 related_posts: false
