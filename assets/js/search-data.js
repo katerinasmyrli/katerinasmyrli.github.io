@@ -415,7 +415,7 @@ ninja.data = [{
           title: 'Co-organising a workshop on tissue diagnostics in surgical soft robotics',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/hamlyn_25/";
+              window.location.href = "/news/2025-06-24-hamlyn-workshop.md/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
