@@ -9,7 +9,7 @@ cv:
       username: katerinasmyrli
 
   sections:
-    Profsummary:       
+    Summary:       
       - name: Researching bipedal locomotion of robots and humans
         icon: fa-solid fa-hashtag
   
