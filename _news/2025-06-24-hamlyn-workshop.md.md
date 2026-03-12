@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-> I recently co-organised the half-day workshop “Advanced Tissue Examination for Diagnostics in Surgical Soft Robotics” at the **[Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org/)**, as part of the PALPABLE Project. 
+> I had the pleasure of co-organizing the half-day workshop **Advanced Tissue Examination for Diagnostics in Surgical Soft Robotics** at the **[Hamlyn Symposium on Medical Robotics 2025](https://www.hamlynsymposium.org/)**, as part of the PALPABLE Project. 
 
 ---
 
