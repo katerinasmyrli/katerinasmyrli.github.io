@@ -410,11 +410,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2023-09-19-esmac-workshop/";
-            },},{id: "news-co-organizing-esmac-workshop-on-markerless-motion-analysis-for-gait-assessment",
-          title: 'Co-organizing ESMAC Workshop on Markerless Motion Analysis for Gait Assessment',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-01-01-icra_ws/";
             },},{id: "news-co-organizing-hamlyn-workshop-on-tissue-diagnostics-in-surgical-soft-robotics",
           title: 'Co-organizing Hamlyn workshop on Tissue Diagnostics in Surgical Soft Robotics',
           description: "",
