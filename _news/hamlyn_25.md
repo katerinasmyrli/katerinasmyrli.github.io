@@ -6,7 +6,9 @@ inline: false
 related_posts: false
 ---
 
-I recently co-organised the half-day workshop “Advanced Tissue Examination for Diagnostics in Surgical Soft Robotics” at the Hamlyn Symposium on Medical Robotics 2025, as part of the PALPABLE Project. 
+> I recently co-organised the half-day workshop “Advanced Tissue Examination for Diagnostics in Surgical Soft Robotics” at the Hamlyn Symposium on Medical Robotics 2025, as part of the PALPABLE Project. 
+
+---
 
 Together with Kaspar Althoefer, Abu Bakar Dawood, and Claudia Navarro, we hosted a workshop focused on the use of palpation techniques and soft robotic tools for diagnostic assessment of soft tissues in minimally invasive and robotic surgery.
 
