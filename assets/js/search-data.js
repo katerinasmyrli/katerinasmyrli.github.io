@@ -418,7 +418,12 @@ ninja.data = [{
             },},{id: "news-successfully-defended-my-phd-mortar-board",
           title: 'Successfully defended my PhD! :mortar_board:',
           description: "",
-          section: "News",},{id: "news-speaker-in-the-1st-summer-school-in-robotics-amp-ai",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-03-icra_ws/";
+            },},{id: "news-speaker-in-the-1st-summer-school-in-robotics-amp-ai",
           title: 'Speaker in the 1st Summer School in Robotics &amp;amp; AI',
           description: "",
           section: "News",handler: () => {
