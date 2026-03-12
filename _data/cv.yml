@@ -13,8 +13,7 @@ cv:
       username: example
 
   sections:
-    Summary: 
-    - Researching bipedal locomotion in robots and humans
+    Summary: Researching bipedal locomotion in robots and humans
   
     Education:
       - institution: National Technical University of Athens
