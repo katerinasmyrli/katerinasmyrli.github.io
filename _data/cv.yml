@@ -9,7 +9,9 @@ cv:
       username: katerinasmyrli
 
   sections:
-    Summary: Researching bipedal locomotion in robots and humans
+    Summary:       
+      - name: Researching bipedal locomotion of robots and humans
+        icon: fa-solid fa-hashtag
   
     Education:
       - institution: National Technical University of Athens
