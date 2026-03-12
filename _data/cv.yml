@@ -3,7 +3,6 @@ cv:
   label: Robotics Engineer
   email: katerinasmyrli@gmail.com
   location: Athens, Greece
-  photo: ""
   summary: Researching bipedal locomotion in robots and humans
   
 
@@ -16,7 +15,6 @@ cv:
       username: example
 
   sections:
-    summary: Researching bipedal locomotion in robots and humans
   
     Education:
       - institution: National Technical University of Athens
