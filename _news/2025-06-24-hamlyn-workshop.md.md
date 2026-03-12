@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Co-organising a workshop on tissue diagnostics in surgical soft robotics
-date: 2025-06-23 
+date: 2025-06-24
 inline: false
 related_posts: false
 ---
