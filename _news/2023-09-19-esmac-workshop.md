@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-> Together with Athanasios Mastrogeorgiou, Konstantina Tsintzira, Odysseas Stavrakakis and Prof. Evangelos Papadopoulos, we organised the workshop **Markerless Motion Analysis for Gait Assessment** at the **ESMAC Conference**, focusing on developing accessible and low-cost methods for biomechanical analysis.
+> Together with Athanasios Mastrogeorgiou, Konstantina Tsintzira, Odysseas Stavrakakis and Prof. Evangelos Papadopoulos, we organised the workshop **Markerless Motion Analysis for Gait Assessment** at the **2023 ESMAC Conference**, focusing on developing accessible and low-cost methods for biomechanical analysis.
 > 
 ---
 
