@@ -106,7 +106,7 @@ cv:
           - Study of Gait Analysis Systems .
 
     Publications:
-        - title: A Virtual Gravity Controller for Efficient Underactuated Biped Robots
+      - title: A Virtual Gravity Controller for Efficient Underactuated Biped Robots
         authors:
           - Despoina Maligianni
           - Fotios Valouxis
@@ -117,7 +117,7 @@ cv:
         date: 2025
         url: https://ieeexplore.ieee.org/document/11128793/
         
-        - title: Low-Cost Markerless Gait Analysis Using a Minimal Human Model
+      - title: Low-Cost Markerless Gait Analysis Using a Minimal Human Model
         authors:
           - Konstantina Tsintzira
           - Aikaterini Smyrli
@@ -127,7 +127,7 @@ cv:
         date: 2025
         url: https://ieeexplore.ieee.org/document/11273621
   
-        - title: User-Centered Design Approach for Development of an Assistive Soft Exosuit and Initial Results on User Requirements
+      - title: User-Centered Design Approach for Development of an Assistive Soft Exosuit and Initial Results on User Requirements
         authors:
           - Gerdienke B. Prange-Lasonder
           - Kira Oberschmidt
@@ -142,7 +142,7 @@ cv:
         date: 2024
         url: https://link.springer.com/chapter/10.1007/978-3-031-77588-8_13
   
-        - title: Guidelines For Optimal Human Mesh Generation Using Deep Learning-Driven Avatar Reconstruction For Gait Analysis
+      - title: Guidelines For Optimal Human Mesh Generation Using Deep Learning-Driven Avatar Reconstruction For Gait Analysis
         authors:
           - Odysseas Stavrakakis
           - Athanasios Mastrogeorgiou
@@ -152,7 +152,7 @@ cv:
         date: 2024
         url: https://ieeexplore.ieee.org/document/10769832
   
-        - title: Gait Analysis with Trinocular Computer Vision Using Deep Learning
+      - title: Gait Analysis with Trinocular Computer Vision Using Deep Learning
         authors:
           - Odysseas Stavrakakis
           - Athanasios Mastrogeorgiou
@@ -162,7 +162,7 @@ cv:
         date: 2023
         url: https://ieeexplore.ieee.org/document/10328370
   
-        - title: Modeling, Validation, and Design Investigation of a Passive Biped Walker with Knees and Biomimetic Feet
+      - title: Modeling, Validation, and Design Investigation of a Passive Biped Walker with Knees and Biomimetic Feet
         authors:
           - Aikaterini Smyrli
           - Evangelos Papadopoulos
@@ -170,7 +170,7 @@ cv:
         date: 2022
         url: https://ieeexplore.ieee.org/document/9812129/
   
-        - title: Improved biped walking performance around the kinematic singularities of biomimetic four-bar knees
+      - title: Improved biped walking performance around the kinematic singularities of biomimetic four-bar knees
         authors:
           - Aikaterini Smyrli
           - Evangelos Papadopoulos
@@ -178,7 +178,7 @@ cv:
         date: 2022
         url: https://ieeexplore.ieee.org/document/9982027
   
-        - title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
+      - title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
         authors:
           - Christos Vasileiou
           - Aikaterini Smyrli
@@ -188,7 +188,7 @@ cv:
         date: 2021
         url: linkinghub.elsevier.com/retrieve/pii/S0094114X2100104X
   
-        - title: A Generalized Model for Compliant Passive Bipedal Walking: Sensitivity Analysis and Implications on Bionic Leg Design
+      - title: A Generalized Model for Compliant Passive Bipedal Walking: Sensitivity Analysis and Implications on Bionic Leg Design
         authors:
           - Aikaterini Smyrli
           - Georgios A. Bertos
