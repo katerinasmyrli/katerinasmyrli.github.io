@@ -418,8 +418,8 @@ ninja.data = [{
             },},{id: "news-successfully-defended-my-phd-mortar-board",
           title: 'Successfully defended my PhD! :mortar_board:',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-tailored-to-move-workshop-on-wearable-robotics-accepted-at-icra-2026",
+          title: 'Tailored to Move - Workshop on Wearable Robotics accepted at ICRA 2026!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-01-03-icra_ws/";
