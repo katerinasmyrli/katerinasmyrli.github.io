@@ -1,5 +1,5 @@
 cv:
-  name: Katerina Smyrli
+  name: Katerina Smyrli, PhD
   headline: Robotics Engineer
   email: katerinasmyrli@gmail.com
   location: Athens, Greece
@@ -24,7 +24,6 @@ cv:
         score: ""
         courses: ""
         highlights:
-
 
       - institution: Imperial College London
         location: London, UK
