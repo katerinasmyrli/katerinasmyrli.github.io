@@ -15,3 +15,5 @@ The workshop presented a markerless gait analysis pipeline that combines low-cos
 The goal of this work is to make gait analysis more accessible by reducing the reliance on expensive marker-based motion capture systems and specialized laboratory setups. By leveraging open-source tools and affordable hardware, the proposed approach enables gait analysis in settings where traditional motion capture labs are not available.
 
 During the workshop we demonstrated the pipeline, discussed optimal camera placement and calibration strategies, and explored applications ranging from clinical gait assessment to training anthropomorphic walking robots.
+
+Special thanks to ELEPAP and our workshop host Georgios Gkrimas!
