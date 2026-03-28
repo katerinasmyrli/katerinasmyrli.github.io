@@ -44,5 +44,8 @@ Details of this work can be found in the [Greek National Archive of PhD Theses](
             path="assets/img/phd_roadmap.png"
             class="img-fluid rounded"
         %}
+        <div class="caption">
+        Roadmap of my PhD thesis, Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses.
+        </div>
     </div>
 </div>
