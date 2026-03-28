@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master's thesis
+title: MSc thesis
 description: Imperial College London, 2018
 img: assets/img/msc_thumbnail.png
 importance: 1
@@ -30,6 +30,6 @@ related_publications: false
     </div>
 </div>
 
-The performance of the sensor is evaluated through a series of controlled experiments using a dedicated test rig. These experiments include contact initiation and release, as well as slip detection under varying loads and surface materials. The results demonstrate that the device can reliably detect contact and slip events, while also exhibiting sensitivity to material-dependent interaction characteristics :contentReference[oaicite:0]{index=0}.
+The performance of the sensor is evaluated through a series of controlled experiments using a dedicated test rig. These experiments include contact initiation and release, as well as slip detection under varying loads and surface materials. The results demonstrate that the device can reliably detect contact and slip events, while also exhibiting sensitivity to material-dependent characteristics.
 
 Overall, this work presents a compact and effective tactile sensing solution for robotic applications, highlighting the potential of multimodal sensing in improving manipulation performance and interaction awareness.
