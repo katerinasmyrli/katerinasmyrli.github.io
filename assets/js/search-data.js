@@ -430,7 +430,7 @@ ninja.data = [{
               window.location.href = "/news/2026-03-01-hrf/";
             },},{id: "projects-phd-thesis",
           title: 'PhD thesis',
-          description: "with background image",
+          description: "NTUA, 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
