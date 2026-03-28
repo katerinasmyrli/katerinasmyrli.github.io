@@ -25,7 +25,7 @@ related_publications: true
             class="img-fluid rounded"
         %}
         <div class="caption">
-        Roadmap of my PhD thesis, <i>Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses</i>.
+        Roadmap of my PhD thesis, <i>Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses</i>. {% cite smyrli_phd %}
         </div>
     </div>
 </div>
