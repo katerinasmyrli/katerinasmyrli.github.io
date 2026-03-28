@@ -8,7 +8,8 @@ category: haptics
 related_publications: false
 ---
 
-## **ROBOTIC GRIP: Design, Development and Evaluation of a Tactile Sensing Device**
+### **ROBOTIC GRIP: Design, Development and Evaluation of a Tactile Sensing Device**
+--
 
 > This thesis investigates the design and evaluation of a bio-inspired tactile sensing device for robotic manipulation, with emphasis on contact detection and slip prediction.
 
