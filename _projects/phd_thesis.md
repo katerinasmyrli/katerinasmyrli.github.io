@@ -33,22 +33,17 @@ The outcome of this research is a comprehensive framework for bipedal walking an
 
 Details of this work can be found in the [Greek National Archive of PhD Theses](https://phdtheses.ekt.gr/eadd/handle/10442/60169).
 
-<div class="row align-items-center">
-    
-    <!-- Text -->
+<div class="row">
     <div class="col-md-8">
         <p>
             This is your main text. You can describe your PhD work here, 
             explain the figure, and include your link to the thesis.
         </p>
     </div>
-
-    <!-- Image -->
     <div class="col-md-4 text-center">
         {% include figure.liquid 
             path="assets/img/phd_roadmap.png"
             class="img-fluid rounded"
         %}
     </div>
-
 </div>
