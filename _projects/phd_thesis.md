@@ -36,8 +36,7 @@ Details of this work can be found in the [Greek National Archive of PhD Theses](
 <div class="row">
     <div class="col-md-8">
         <p>
-            This is your main text. You can describe your PhD work here, 
-            explain the figure, and include your link to the thesis.
+            The research follows a structured progression, beginning with a bipedal walking _base_ model that captures key aspects of human walking using compliant legs and semicircular feet. Despite its simplicity, this initial model exhibits stable passive walking cycles that resemble human gait. A nondimensional formulation enables sensitivity analysis, fixed-point identification, and energetic evaluation across a wide range of design parameters. The model's predictions are validated through multibody simulations using a digital twin and through the development and use of an experimental prototype.
         </p>
     </div>
     <div class="col-md-4 text-center">
