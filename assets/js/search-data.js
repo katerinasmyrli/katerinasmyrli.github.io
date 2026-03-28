@@ -428,8 +428,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-01-hrf/";
-            },},{id: "projects-master-39-s-thesis",
-          title: 'Master&amp;#39;s thesis',
+            },},{id: "projects-msc-thesis",
+          title: 'MSc thesis',
           description: "Imperial College London, 2018",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
