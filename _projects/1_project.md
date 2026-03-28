@@ -29,7 +29,7 @@ The outcome of this research is a comprehensive framework for bipedal walking an
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Roadmap of my PhD thesis, Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses.
 </div>
 
 
