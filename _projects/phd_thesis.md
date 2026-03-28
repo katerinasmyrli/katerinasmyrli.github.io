@@ -24,7 +24,7 @@ The outcome of this research is a comprehensive framework for bipedal walking an
 
 <div class="row">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/phd_roadmap.png" title="phd roadmap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phd_roadmap.png" title="phd roadmap" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
