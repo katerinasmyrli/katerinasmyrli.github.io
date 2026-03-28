@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD thesis
-description: with background image
+description: NTUA, 2025
 img: assets/img/prosth_des.png
 importance: 1
 category: bipedal gait
