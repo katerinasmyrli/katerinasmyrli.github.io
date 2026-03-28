@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects i have worked on.
 nav: true
 nav_order: 3
 display_categories: [bipedal gait, biomechanics, haptics, space robotics, other, fun]
