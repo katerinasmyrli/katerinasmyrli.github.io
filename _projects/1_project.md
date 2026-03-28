@@ -2,7 +2,7 @@
 layout: page
 title: PhD thesis
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/prosth_des.png
 importance: 1
 category: bipedal gait
 related_publications: true
