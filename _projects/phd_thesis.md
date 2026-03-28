@@ -23,7 +23,7 @@ In parallel, a markerless, stereo-camera-based gait analysis system is developed
 The outcome of this research is a comprehensive framework for bipedal walking analysis and robotic or prosthetic design. The combination of detailed modeling, parametric tuning and efficient control provides valuable tools for the development of lower-limb prostheses that closely emulate human motion. The work contributes to the understanding of energy-efficient gait generation, design-driven dynamics, and controller synthesis, offering new perspectives in both robotics and assistive device engineering.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-3 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/phd_roadmap.png" title="phd roadmap" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
