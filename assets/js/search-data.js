@@ -428,8 +428,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-01-hrf/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-phd-thesis",
+          title: 'PhD thesis',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
