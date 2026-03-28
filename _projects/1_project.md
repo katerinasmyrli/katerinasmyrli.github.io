@@ -11,7 +11,6 @@ related_publications: true
 
 This thesis investigates the dynamics of bipedal locomotion through the modeling, simulation, and control of passive and active bio-inspired mechanical walkers, with emphasis on applications in robotics and lower-limb prosthetics. 
 
-
 The research follows a structured progression, beginning with a bipedal walking _base_ model that captures key aspects of human walking using compliant legs and semicircular feet. Despite its simplicity, this initial model exhibits stable passive walking cycles that resemble human gait. A nondimensional formulation enables sensitivity analysis, fixed-point identification, and energetic evaluation across a wide range of design parameters. The model's predictions are validated through multibody simulations using a digital twin and through the development and use of an experimental prototype.
 
 Building on this foundation, the design of the model is gradually refined to incorporate more anatomically inspired features. The study advances through a series of _footshape investigations_, beginning with a semielliptical design that approximates the evolving curvature of the human foot during rollover. This model allows a parametric investigation of rollover dynamics, allowing the fine-tuning of gait descriptors and the optimization of energetic efficiency. The model is subsequently expanded to support any convex foot geometry, enabling the integration of biomimetic profiles extracted from experimental human walking data. These geometries allow the replication of biomimetic ankle trajectories and prediction of ground contact behavior with increasing fidelity, offering a clear pathway for prosthetic foot design that mirrors natural biomechanics.
@@ -26,7 +25,7 @@ The outcome of this research is a comprehensive framework for bipedal walking an
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/phd_roadmap.png" title="phd roadmap" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phd_roadmap.png" style="width: 50%;" title="phd roadmap" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
