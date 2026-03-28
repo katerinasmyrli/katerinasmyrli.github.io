@@ -36,7 +36,7 @@ Details of this work can be found in the [Greek National Archive of PhD Theses](
 <div class="row">
     <div class="col-md-6">
         <p>
-            The research follows a structured progression, beginning with a bipedal walking <p><i>base</i></p> model that captures key aspects of human walking using compliant legs and semicircular feet. Despite its simplicity, this initial model exhibits stable passive walking cycles that resemble human gait. A nondimensional formulation enables sensitivity analysis, fixed-point identification, and energetic evaluation across a wide range of design parameters. The model's predictions are validated through multibody simulations using a digital twin and through the development and use of an experimental prototype.
+            The research follows a structured progression, beginning with a bipedal walking <i>base</i> model that captures key aspects of human walking using compliant legs and semicircular feet. Despite its simplicity, this initial model exhibits stable passive walking cycles that resemble human gait. A nondimensional formulation enables sensitivity analysis, fixed-point identification, and energetic evaluation across a wide range of design parameters. The model's predictions are validated through multibody simulations using a digital twin and through the development and use of an experimental prototype.
         </p>
     </div>
     <div class="col-md-6 text-center">
@@ -45,7 +45,7 @@ Details of this work can be found in the [Greek National Archive of PhD Theses](
             class="img-fluid rounded"
         %}
         <div class="caption">
-        Roadmap of my PhD thesis, <p><i>Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses</i></p>.
+        Roadmap of my PhD thesis, <i>Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses</i>.
         </div>
     </div>
 </div>
