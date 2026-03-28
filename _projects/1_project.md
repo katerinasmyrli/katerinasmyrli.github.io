@@ -32,5 +32,5 @@ The outcome of this research is a comprehensive framework for bipedal walking an
     Roadmap of my PhD thesis, Design and control of Anthropomorphic and Energy-efficient Robotic Systems with Applications in Lower-limb Prostheses.
 </div>
 
-
+Details of this work can be found in the [Greek National Archive of PhD Theses](https://phdtheses.ekt.gr/eadd/handle/10442/60169).
 
