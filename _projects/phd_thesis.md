@@ -8,6 +8,9 @@ category: bipedal gait
 related_publications: true
 ---
 
+### **Design and control of anthropomorphic and energy-efficient robotic systems with applications in lower-limb prostheses**
+---
+
 > This thesis investigates the dynamics of bipedal locomotion through the modeling, simulation, and control of passive and active bio-inspired mechanical walkers, with emphasis on applications in robotics and lower-limb prosthetics. 
 
 <div class="row">
