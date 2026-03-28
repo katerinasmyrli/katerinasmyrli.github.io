@@ -281,7 +281,7 @@ scholar:
   last_name: [Smyrli]
   first_name: [Aikaterini]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
