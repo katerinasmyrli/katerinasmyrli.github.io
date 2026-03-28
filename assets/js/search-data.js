@@ -428,11 +428,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-01-hrf/";
-            },},{id: "projects-msc-thesis",
-          title: 'MSc thesis',
-          description: "Imperial College London, 2018",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -453,6 +448,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-msc-thesis",
+          title: 'MSc thesis',
+          description: "Imperial College London, 2018",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/msc_thesis/";
             },},{id: "projects-phd-thesis",
           title: 'PhD thesis',
           description: "NTUA, 2025",
