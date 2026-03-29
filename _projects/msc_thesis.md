@@ -28,7 +28,7 @@ related_publications: false
             class="img-fluid rounded"
         %}
         <div class="caption">
-        Experimental setup for the evaluation of the tactile sensing device.
+        Conceptual visualization of robotic finger.
         </div>
     </div>
 </div>
