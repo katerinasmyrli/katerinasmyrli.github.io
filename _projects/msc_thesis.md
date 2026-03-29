@@ -24,7 +24,7 @@ related_publications: false
     </div>
     <div class="col-md-6 text-center">
         {% include figure.liquid 
-            path="assets/img/robotic_grip_setup.png"
+            path="assets/img/msc_visualization.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
