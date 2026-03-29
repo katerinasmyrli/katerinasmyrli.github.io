@@ -23,7 +23,7 @@ Building on this, we introduced a trinocular reconstruction pipeline that fuses 
     </div>
     <div class="col-md-6 text-center">
         {% include figure.liquid 
-            path="assets/img/msc_visualization.png"
+            path="assets/img/footprint_humanoids.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
