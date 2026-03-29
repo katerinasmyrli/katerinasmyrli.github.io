@@ -11,7 +11,7 @@ related_publications: true
 
 > In this project we develop a low-cost gait analysis system that removes the need for traditional motion-capture labs. Instead of relying on markers and force plates, we use a stereo RGB camera and a simplified 2D biomechanical model to estimate human motion and dynamics.
 
-Initial work performed in collaboration between NTUA and University of Duisburg-Essen focused on using pose detection frameworks to extract human pose from RGB images, enabling estimation of limb lengths and joint configurations without markers or complex lab setups. The results showed promising agreement with traditional motion capture systems, highlighting the potential of vision-based approaches for accessible motion analysis. 
+Initial work performed in a collaboration program between NTUA and the University of Duisburg-Essen focused on using pose detection frameworks to extract human pose from RGB images, enabling estimation of limb lengths and joint configurations without markers or complex lab setups. The results showed promising agreement with traditional motion capture systems, highlighting the potential of vision-based approaches for accessible motion analysis. 
 
 Building on this, the work is evolving toward a complete gait analysis framework using a stereo camera and a minimal 2D human model. By combining pose estimation with inverse kinematics and inverse dynamics, the system estimates joint motion, internal joint torques, and ground reaction forces without relying on force plates {% cite eccomas19 %}.
 
