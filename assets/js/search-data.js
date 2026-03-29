@@ -443,6 +443,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-foot-shape-investigations",
+          title: 'Foot shape investigations',
+          description: "From circular to arbitrary foot heometry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/foot_studies/";
             },},{id: "projects-markerless-gait-analysis",
           title: 'Markerless gait analysis',
           description: "From pose estimation to biomechanical analysis",
