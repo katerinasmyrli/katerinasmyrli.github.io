@@ -27,7 +27,7 @@ Building on this, we introduced a trinocular reconstruction pipeline that fuses 
             class="img-fluid rounded"
         %}
         <div class="caption">
-        Conceptual visualization of robotic finger developed in {% cite smyrli_msc %}.
+         Left footprint estimated and used to detect contact events {% cite humanoids24 %}.
         </div>
     </div>
 </div>
