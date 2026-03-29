@@ -4,7 +4,7 @@ title: Foot shape investigations
 description: From circular to arbitrary foot heometry
 img: assets/img/humanoids_thumbnail.png
 importance: 3
-category: biomechanics
+category: bipedal gait
 tags: [Biomechanics, Gait Analysis, Computer Vision, Robotics]
 related_publications: true
 ---
