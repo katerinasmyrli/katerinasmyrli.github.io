@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Markerless Motion Capture
-description: Improving fidelity
-img: assets/img/bibe_thumbnail.jpg
+title: Markerless motion capture
+description: Improving pose detection and automating gait phase identification
+img: assets/img/humanoids_thumbnail.png
 importance: 3
 category: biomechanics
 tags: [Biomechanics, Gait Analysis, Computer Vision, Robotics]
