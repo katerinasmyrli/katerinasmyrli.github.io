@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Human gait analysis
-description: inverse dynamics
+title: Markerless gait analysis
+description: From pose estimation to biomechanical analysis
 img: assets/img/bibe_thumbnail.jpg
 importance: 3
 category: biomechanics
