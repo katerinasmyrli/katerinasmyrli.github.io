@@ -28,7 +28,7 @@ related_publications: false
             class="img-fluid rounded"
         %}
         <div class="caption">
-        Conceptual visualization of robotic finger.
+        Conceptual visualization of robotic finger developed in {% cite smyrli_msc %}.
         </div>
     </div>
 </div>
@@ -38,3 +38,5 @@ The device is designed and assembled through a structured process, including mat
 The performance of the sensor is evaluated through a series of controlled experiments using a dedicated test rig. These experiments include contact initiation and release, as well as slip detection under varying loads and surface materials. The results demonstrate that the device can reliably detect contact and slip events, while also exhibiting sensitivity to material-dependent characteristics.
 
 Overall, this work presents a compact and effective tactile sensing solution for robotic applications, highlighting the potential of multimodal sensing in improving manipulation performance and interaction awareness.
+
+Details of this work can be found in [Imperial College London's repository](https://spiral.imperial.ac.uk/entities/publication/fa9e6e52-efb4-44c9-912f-6cd14535f826).
