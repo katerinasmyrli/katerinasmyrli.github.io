@@ -448,6 +448,11 @@ ninja.data = [{
           description: "From pose estimation to biomechanical analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/inv_dyn_gait/";
+            },},{id: "projects-markerless-motion-capture",
+          title: 'Markerless Motion Capture',
+          description: "Improving fidelity",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/markerless_mocap/";
             },},{id: "projects-msc-thesis",
           title: 'MSc thesis',
           description: "Imperial College London, 2018",
