@@ -32,4 +32,13 @@ Building on this, we introduced a trinocular reconstruction pipeline that fuses 
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bibe_fig.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling viewpoints not feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
+</div
+
 Overall, these efforts contribute toward a unified pipeline for markerless motion capture that approaches the fidelity of traditional systems, while remaining low-cost, non-intrusive, and scalable. The ongoing direction is to integrate these components into a robust toolchain capable of reliable 3D motion reconstruction and biomechanical analysis in unconstrained environments.
