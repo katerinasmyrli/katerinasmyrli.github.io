@@ -428,11 +428,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-01-hrf/";
-            },},{id: "projects-human-gait-analysis",
-          title: 'Human gait analysis',
-          description: "inverse dynamics",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
@@ -448,6 +443,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-human-gait-analysis",
+          title: 'Human gait analysis',
+          description: "inverse dynamics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/inv_dyn_gait/";
             },},{id: "projects-msc-thesis",
           title: 'MSc thesis',
           description: "Imperial College London, 2018",
