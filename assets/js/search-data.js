@@ -443,9 +443,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-human-gait-analysis",
-          title: 'Human gait analysis',
-          description: "inverse dynamics",
+            },},{id: "projects-markerless-gait-analysis",
+          title: 'Markerless gait analysis',
+          description: "From pose estimation to biomechanical analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/inv_dyn_gait/";
             },},{id: "projects-msc-thesis",
