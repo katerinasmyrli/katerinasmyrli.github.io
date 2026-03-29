@@ -39,11 +39,11 @@ Our early work investigated the use of monocular pose estimation to extract biom
     </div>
     <div class="col-md-4 text-center">
         {% include figure.liquid 
-            path="assets/img/footprint_humanoids.png"
+            path="assets/img/avatar_humanoids.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
-         Left footprint estimated and used to detect contact events {% cite humanoids24 %}.
+         A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling a number of viewpoints that would not be feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
         </div>
     </div>
 </div>
@@ -54,11 +54,11 @@ Overall, these efforts contribute toward a unified pipeline for markerless motio
     </div>
     <div class="col-md-6 text-center">
         {% include figure.liquid 
-            path="assets/img/avatar_humanoids.png"
+            path="assets/img/footprint_humanoids.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
-         A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling a number of viewpoints that would not be feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
+         Left footprint estimated and used to detect contact events {% cite humanoids24 %}.
         </div>
     </div>
 </div>
