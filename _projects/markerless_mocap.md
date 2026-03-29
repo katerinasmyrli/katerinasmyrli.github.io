@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Markerless motion capture
+title: Human mesh generation
 description: Improving pose detection and automating gait phase identification
 img: assets/img/humanoids_thumbnail.png
 importance: 3
