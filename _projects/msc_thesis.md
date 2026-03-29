@@ -5,7 +5,7 @@ description: Imperial College London, 2018
 img: assets/img/msc_thumbnail.png
 importance: 1
 category: haptics
-related_publications: false
+related_publications: true
 ---
 
 ### **ROBOTIC GRIP: Design, Development and Evaluation of a Tactile Sensing Device**
