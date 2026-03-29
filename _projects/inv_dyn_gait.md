@@ -2,7 +2,7 @@
 layout: page
 title: Markerless gait analysis
 description: From pose estimation to biomechanical analysis
-img: assets/img/bibe_thumbnail.jpg
+img: assets/img/bibe_thumbnail.png
 importance: 3
 category: biomechanics
 tags: [Biomechanics, Gait Analysis, Computer Vision, Robotics]
