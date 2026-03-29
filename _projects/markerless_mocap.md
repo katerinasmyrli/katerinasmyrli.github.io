@@ -22,7 +22,7 @@ Our early work investigated the use of monocular pose estimation to extract biom
     </div>
     <div class="col-md-4 text-center">
         {% include figure.liquid 
-            path="assets/img/footprint_humanoids.png"
+            path="assets/img/econ_mesh.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
