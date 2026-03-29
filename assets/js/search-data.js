@@ -448,8 +448,8 @@ ninja.data = [{
           description: "From pose estimation to biomechanical analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/inv_dyn_gait/";
-            },},{id: "projects-markerless-motion-capture",
-          title: 'Markerless motion capture',
+            },},{id: "projects-human-mesh-generation",
+          title: 'Human mesh generation',
           description: "Improving pose detection and automating gait phase identification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/markerless_mocap/";
