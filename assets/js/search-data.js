@@ -449,8 +449,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/inv_dyn_gait/";
             },},{id: "projects-markerless-motion-capture",
-          title: 'Markerless Motion Capture',
-          description: "Improving fidelity",
+          title: 'Markerless motion capture',
+          description: "Improving pose detection and automating gait phase identification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/markerless_mocap/";
             },},{id: "projects-msc-thesis",
