@@ -445,7 +445,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-foot-shape-investigations",
           title: 'Foot shape investigations',
-          description: "From circular to arbitrary foot heometry",
+          description: "From circular to arbitrary foot geometry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/foot_studies/";
             },},{id: "projects-markerless-gait-analysis",
