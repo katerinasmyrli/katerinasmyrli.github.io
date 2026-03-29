@@ -2,7 +2,7 @@
 layout: page
 title: Human gait analysis
 description: inverse dynamics
-img: assets/img/7.jpg
+img: assets/img/bibe_thumbnail.jpg
 importance: 3
 category: biomechanics
 tags: [Biomechanics, Gait Analysis, Computer Vision, Robotics]
