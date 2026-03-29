@@ -15,14 +15,6 @@ related_publications: true
 
 
 <div class="row">
-    <div class="col-md-8">
-        <p>
-        Our early work investigated the use of monocular pose estimation to extract biomechanical parameters such as limb lengths and joint configurations from simple RGB inputs. Even with minimal setup, we observed that meaningful gait descriptors can be recovered with reasonable agreement to marker-based systems, highlighting the potential of low-cost, fast acquisition pipelines {% cite eccomas19 %}.
-        </p>
-        <p>
-        Building on this, we introduced a trinocular reconstruction pipeline that fuses multiple synchronized views into a single, refined 3D human representation. By aligning and merging per-view meshes, we reduce occlusions and reconstruction artifacts, enabling more accurate estimation of gait phases, joint trajectories, and human–environment interaction {% cite icip23 %}.
-        </p>
-    </div>
     <div class="col-md-4 text-center">
         {% include figure.liquid 
             path="assets/img/econ_mesh.png"
@@ -31,6 +23,14 @@ related_publications: true
         <div class="caption">
          Human mesh generation using ECON {% cite icip23 %}.
         </div>
+    </div>
+    <div class="col-md-8">
+        <p>
+        Our early work investigated the use of monocular pose estimation to extract biomechanical parameters such as limb lengths and joint configurations from simple RGB inputs. Even with minimal setup, we observed that meaningful gait descriptors can be recovered with reasonable agreement to marker-based systems, highlighting the potential of low-cost, fast acquisition pipelines {% cite eccomas19 %}.
+        </p>
+        <p>
+        Building on this, we introduced a trinocular reconstruction pipeline that fuses multiple synchronized views into a single, refined 3D human representation. By aligning and merging per-view meshes, we reduce occlusions and reconstruction artifacts, enabling more accurate estimation of gait phases, joint trajectories, and human–environment interaction {% cite icip23 %}.
+        </p>
     </div>
 </div>
 
