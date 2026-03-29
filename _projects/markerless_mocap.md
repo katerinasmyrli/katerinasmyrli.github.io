@@ -33,7 +33,7 @@ related_publications: true
 </div>
 
 <div class="row">
-    <div class="col-md-7 text-center">
+    <div class="col-md-8 text-center">
         {% include figure.liquid 
             path="assets/img/avatar_humanoids.png"
             class="img-fluid rounded"
@@ -42,7 +42,7 @@ related_publications: true
          A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling a number of viewpoints that would not be feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
         </div>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-4">
         <p>
         More recent work focuses on improving reconstruction quality at the mesh level. We study how camera placement and viewpoint selection affect deep-learning-based mesh reconstruction, and propose a simulation-driven framework to optimize camera configurations. Combined with mesh refinement techniques (alignment, evaluation, and surface reconstruction), this leads to significantly improved geometric consistency, particularly in lower-limb regions critical for gait analysis. A major result of this work is the detection of gait phases through the analysis of foot–ground mesh interaction, using reconstructed meshes of the foot and the ground {% cite humanoids24 %}.
         </p>
