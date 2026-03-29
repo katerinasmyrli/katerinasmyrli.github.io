@@ -33,20 +33,17 @@ Building on this, we introduced a trinocular reconstruction pipeline that fuses 
 </div>
 
 <div class="row">
-    <div class="col-md-8">
-        <div class="caption">
-        A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling a number of viewpoints that would not be feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
-        </div>
+    <div class="col-md-6">
+Overall, these efforts contribute toward a unified pipeline for markerless motion capture that approaches the fidelity of traditional systems, while remaining low-cost, non-intrusive, and scalable. The ongoing direction is to integrate these components into a robust toolchain capable of reliable 3D motion reconstruction and biomechanical analysis in unconstrained environments.
     </div>
-    <div class="col-md-4 text-center">
+    <div class="col-md-6 text-center">
         {% include figure.liquid 
             path="assets/img/avatar_humanoids.png"
             class="img-fluid rounded"
         %}
         <div class="caption">
-         Left footprint estimated and used to detect contact events {% cite humanoids24 %}.
+         A digital avatar is recorded in simulation by a dense set of virtual cameras, enabling a number of viewpoints that would not be feasible in real setups. The resulting images are used to reconstruct the 3D mesh, and reconstruction quality is evaluated across the gait cycle to deduce optimal camera placements for each instance.  {% cite humanoids24 %}.
         </div>
     </div>
 </div>
 
-Overall, these efforts contribute toward a unified pipeline for markerless motion capture that approaches the fidelity of traditional systems, while remaining low-cost, non-intrusive, and scalable. The ongoing direction is to integrate these components into a robust toolchain capable of reliable 3D motion reconstruction and biomechanical analysis in unconstrained environments.
