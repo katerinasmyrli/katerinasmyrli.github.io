@@ -2,7 +2,7 @@
 layout: page
 title: MSc thesis
 description: Imperial College London, 2018
-img: assets/img/msc_thumbnail.png
+img: assets/img/msc_thumbnail2.png
 importance: 1
 category: haptics
 related_publications: true
