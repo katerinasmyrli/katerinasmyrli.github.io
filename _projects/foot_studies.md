@@ -20,7 +20,7 @@ Early work in passive bipedal walking relied heavily on circular feet due to the
             class="img-fluid rounded"
         %}
         <div class="caption">
-          Analysis of rolling curvature profiles of biped foot shapes. {% cite iros19 %}.
+          Effects of varying rolling curvature profiles in foot shapes during bipedal walking. {% cite iros19 %}.
         </div>
     </div>
     <div class="col-md-6">
