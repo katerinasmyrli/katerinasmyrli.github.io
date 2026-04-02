@@ -40,7 +40,7 @@ This formulation decouples body dynamics from foot-ground interactions and enabl
       </p>
       <p>
 Using this framework, we designed foot shapes directly from human data. By estimating human ankle trajectories using a markerless motion capture system, we identified foot geometries that reproduce human-like motion through purely passive dynamics. 
-This represents a shift from *assuming* foot geometry to *designing it for a desired gait outcome*. {% cite icra20 %}
+This represents a shift from <i>assuming</i> foot geometry to <i>designing it for a desired gait outcome</i>. {% cite icra20 %}
       </p>
       <p>
 The key result is that foot shape is not just a modeling choice: it is a powerful design variable. By moving from circular to arbitrary geometries, we enable precise control of ankle trajectories, improved energetic performance, and personalized foot design for robotics and prosthetics.
