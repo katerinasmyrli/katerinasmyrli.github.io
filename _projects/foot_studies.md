@@ -25,19 +25,19 @@ Early work in passive bipedal walking relied heavily on circular feet due to the
         </div>
     </div>
     <div class="col-md-6">
-        <p>
-        To bridge this gap, we introduced semi-elliptical feet in a collaboration between NTUA and the University of Duisburg-Essen. Unlike circles, elliptical geometries provide a varying curvature during stance, allowing the rolling radius to change throughout the step. This better approximates the human rollover behavior, where curvature is lower at heel-strike and toe-off and higher when the foot is flat. 
-        </p>
-        <p>
+      <p>
+      To bridge this gap, we introduced semi-elliptical feet in a collaboration between NTUA and the University of Duisburg-Essen. Unlike circles, elliptical geometries provide a varying curvature during stance, allowing the rolling radius to change throughout the step. This better approximates the human rollover behavior, where curvature is lower at heel-strike and toe-off and higher when the foot is flat. 
+      </p>
+      <p>
 Through this model, we showed how foot shape curvature variation significantly affects gait characteristics such as stability, walking speed, and impact forces, and that properly tuned curvature can improve energetic efficiency for a target walking speed. {% cite iros19 %}
-        </p>
-    </div>
+      </p>
+   </div>
 </div>
 
 <div class="row">
     <div class="col-md-8">
       <p>
-        However, even elliptical feet impose strong geometric constraints. They only allow a limited range of shapes and therefore restrict the achievable ankle trajectories. Human walking, in contrast, emerges from a complex multi-joint foot that cannot be accurately captured by a single parametric curve.
+        However, even elliptical feet impose very specific geometric constraints. They only allow a limited range of shapes and therefore restrict the achievable ankle trajectories. Human walking, in contrast, emerges from a complex multi-joint foot that cannot be accurately captured by a single parametric curve.
       </p>
       <p>
 To overcome this limitation, we developed a generalized framework that allows analytical description of passive walking dynamics with arbitrary convex foot shapes, defined simply as a set of points. 
