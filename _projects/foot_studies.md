@@ -42,6 +42,14 @@ The key result is that foot shape is not just a modeling choice: it is a powerfu
           (a-f) Selected frames from OpenPose output for step video
 sequence. Stance leg in cyan, swing leg in blue. Ankle trajectory in red. {% cite icra20 %}.
         </div>
+        {% include figure.liquid 
+            path="assets/img/foot_shape2.png"
+            class="img-fluid rounded"
+        %}
+        <div class="caption">
+            (a) Points defining the foot shape. (b) Biped ankle trajectory for
+full and partial rotation, compared to experimental data from OpenPose.  {% cite icra20 %}.
+        </div>
     </div>
 </div>
 
