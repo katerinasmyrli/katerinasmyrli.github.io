@@ -13,8 +13,9 @@ related_publications: true
 
 Early work in passive bipedal walking relied heavily on circular feet due to their analytical simplicity. Circular feet produce a simple rolling motion, and their radius directly influences gait characteristics such as speed and stability. However, this simplicity comes at a cost: the human foot does not behave as a constant-radius rocker, limiting the ability of circular models to reproduce realistic human gait patterns. {% cite smyrli21 %}
 
+        
 <div class="row">
-    <div class="col-md-7 text-center">
+    <div class="col-md-6 text-center">
       {% include figure.liquid 
             path="assets/img/elliptic_feet.png"
             class="img-fluid rounded"
@@ -23,9 +24,13 @@ Early work in passive bipedal walking relied heavily on circular feet due to the
           Effects of varying rolling curvature profiles in foot shapes during bipedal walking. {% cite iros19 %}.
         </div>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-6">
+        <p>
         To bridge this gap, we introduced semi-elliptical feet in a collaboration between NTUA and the University of Duisburg-Essen. Unlike circles, elliptical geometries provide a varying curvature during stance, allowing the rolling radius to change throughout the step. This better approximates the human rollover behavior, where curvature is lower at heel-strike and toe-off and higher when the foot is flat. 
+        </p>
+        <p>
 Through this model, we showed how foot shape curvature variation significantly affects gait characteristics such as stability, walking speed, and impact forces, and that properly tuned curvature can improve energetic efficiency for a target walking speed. {% cite iros19 %}
+        </p>
     </div>
 </div>
 
