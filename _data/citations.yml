@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   wQ6bzf4AAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -10,7 +10,7 @@ papers:
     title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
     year: '2021'
   wQ6bzf4AAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 3
     title: Improved biped walking performance around the kinematic singularities of biomimetic four-bar knees
     year: '2022'
   wQ6bzf4AAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: Guidelines For Optimal Human Mesh Generation Using Deep Learning-Driven Avatar Reconstruction For Gait Analysis
     year: '2024'
   wQ6bzf4AAAAJ:UeHWp8X0CEIC:
-    citations: 12
+    citations: 13
     title: Modeling, validation, and design investigation of a passive biped walker with knees and biomimetic feet
     year: '2022'
   wQ6bzf4AAAAJ:W7OEmFMy1HYC:
@@ -42,8 +42,8 @@ papers:
     title: Low-Cost Markerless Gait Analysis Using a Minimal Human Model
     year: Unknown Year
   wQ6bzf4AAAAJ:d1gkVwhDpl0C:
-    citations: 1
-    title: Application of OpenPose deep learning algorithm for gait parameter identification
+    citations: 2
+    title: Application of openpose deep learning algorithm for gait parameter identification
     year: '2019'
   wQ6bzf4AAAAJ:eQOLeE2rZwMC:
     citations: 2
