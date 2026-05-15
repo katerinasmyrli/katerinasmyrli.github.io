@@ -95,14 +95,14 @@ cv:
           - Study of Gait Analysis Systems
 
     Publications:
-        - title: Underactuated Virtual Gravity Control - Harnessing Passive Dynamics for Optimally Efficient Bipedal Locomotion
+      - title: Underactuated Virtual Gravity Control - Harnessing Passive Dynamics for Optimally Efficient Bipedal Locomotion
         authors:
           - Aikaterini Smyrli
           - Evangelos Papadopoulos
         publisher: IEEE/ASME International Conference on Advanced Intelligent Mechatronics
         date: 2026
         
-        - title: A Modular, Wireless and Wearable Biosignal Acquisition Platform
+      - title: A Modular, Wireless and Wearable Biosignal Acquisition Platform
         authors:
           - Antonios Doukakis
           - Aikaterini Smyrli
