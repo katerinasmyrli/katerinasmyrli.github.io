@@ -95,6 +95,29 @@ cv:
           - Study of Gait Analysis Systems
 
     Publications:
+        - title: Underactuated Virtual Gravity Control - Harnessing Passive Dynamics for Optimally Efficient Bipedal Locomotion
+        authors:
+          - Aikaterini Smyrli
+          - Evangelos Papadopoulos
+        publisher: IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+        date: 2026
+        url: 
+        
+        - title: A Modular, Wireless and Wearable Biosignal Acquisition Platform
+        authors:
+          - Antonios Doukakis
+          - Aikaterini Smyrli
+          - Makis Livadas
+          - Henrique De Melo Ribeiro
+          - Shadiya Alingal Meethal
+          - Mohamad Reza Shahabian Alashti
+          - Gabriella Lakatos
+          - Patrick Holthaus
+          - Farshid Amirabdollahian
+        publisher: IEEE International Conference on Robotics and Automation
+        date: 2026
+        url: 
+    
       - title: A Virtual Gravity Controller for Efficient Underactuated Biped Robots
         authors:
           - Despoina Maligianni
