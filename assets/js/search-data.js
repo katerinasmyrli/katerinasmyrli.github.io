@@ -427,7 +427,12 @@ ninja.data = [{
           title: 'Speaker in the 1st Summer School in Robotics &amp;amp; AI',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2026-03-01-hrf/";
+              window.location.href = "/news/2026-03-01-summer_school/";
+            },},{id: "news-hellenic-robotics-forum",
+          title: 'Hellenic Robotics Forum',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/hrf_26/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
