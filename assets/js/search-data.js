@@ -428,8 +428,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-01-summer_school/";
-            },},{id: "news-hellenic-robotics-forum",
-          title: 'Hellenic Robotics Forum',
+            },},{id: "news-co-organizer-and-spotlight-presentr-in-the-1st-hellenic-robotics-forum",
+          title: 'Co-organizer and Spotlight Presentr in the 1st Hellenic Robotics Forum',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-15-hrf/";
