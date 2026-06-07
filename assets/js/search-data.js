@@ -433,6 +433,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-15-hrf/";
+            },},{id: "news-tailored-to-move-workshop-on-wearable-robotics-accepted-at-icra-2026",
+          title: 'Tailored to Move - Workshop on Wearable Robotics accepted at ICRA 2026!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-05-t2m/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
