@@ -433,11 +433,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-04-15-hrf/";
-            },},{id: "news-tailored-to-move-workshop-concluded-with-success",
-          title: 'Tailored to Move Workshop Concluded with Success!',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/2026-06-05-t2m/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
