@@ -432,7 +432,7 @@ ninja.data = [{
           title: 'Hellenic Robotics Forum',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/hrf_26/";
+              window.location.href = "/news/2026-04-15-hrf/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
