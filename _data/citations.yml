@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-07-29'
 papers:
   wQ6bzf4AAAAJ:2osOgNQ5qMEC:
     citations: 11
     title: Efficient stabilization of zero-slope walking for bipedal robots following their passive fixed-point trajectories
     year: '2018'
   wQ6bzf4AAAAJ:9yKSN-GCB0IC:
-    citations: 37
+    citations: 38
     title: Development of a passive biped robot digital twin using analysis, experiments, and a multibody simulation environment
     year: '2021'
   wQ6bzf4AAAAJ:IjCSPb-OGe4C:
-    citations: 3
+    citations: 5
     title: Improved biped walking performance around the kinematic singularities of biomimetic four-bar knees
     year: '2022'
   wQ6bzf4AAAAJ:LkGwnXOMwfcC:
@@ -30,7 +30,7 @@ papers:
     title: User-Centered Design Approach for Development of an Assistive Soft Exosuit and Initial Results on User Requirements
     year: '2024'
   wQ6bzf4AAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: A Virtual Gravity Controller for Efficient Underactuated Biped Robots
     year: '2025'
   wQ6bzf4AAAAJ:Y0pCki6q_DkC:
@@ -53,8 +53,12 @@ papers:
     citations: 11
     title: On the effect of semielliptical foot shape on the energetic efficiency of passive bipedal gait*
     year: '2019'
+  wQ6bzf4AAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Exploiting passive dynamics for steady-state walking on level and inclined terrain
+    year: Unknown Year
   wQ6bzf4AAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 16
     title: A methodology for the incorporation of arbitrarily-shaped feet in passive bipedal walking dynamics
     year: '2020'
   wQ6bzf4AAAAJ:u5HHmVD_uO8C:
